@@ -8,3 +8,8 @@ Hello, world.
 - item 1
 - item 2
 - item 3
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
